@@ -1,6 +1,6 @@
 # LILA Player Journey
 
-Deployment URL: [ADD DEPLOYED URL]
+Deployment URL: https://lila-playerjourney.vercel.app
 
 ## Documentation
 
